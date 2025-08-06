@@ -20,7 +20,7 @@ const MainLayout: React.FC = () => {
           <Hero />
         </div>
         <div
-          className="absolute bottom-20 md:bottom-4 md:mx-20 md:mb-8 md:w-[80%] w-full px-6"
+          className="absolute bottom-20 md:bottom-4 md:mx-20 md:mb-8 md:w-[80%] w-full px-6 md:px-0"
         >
           <BookStay />
         </div>

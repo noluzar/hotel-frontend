@@ -4,7 +4,7 @@ const HotelHistory: React.FC = () => {
   return (
     <div className="md:border border-gray-400">
       <div className="flex flex-col md:flex-row justify-between items-center h-full w-full">
-        <div className="md:text-[45px] border-y border-gray-400 py-6 md:py-0 w-full md:border-none text-3xl md:px-30">
+        <div className="md:text-[45px] md:w-[45%] border-y border-gray-400 py-6 md:py-0 w-full md:border-none text-3xl md:px-30">
           <h1 className="p-4">Here, local talents <br/>come together.</h1>
           <div/>
         </div>
