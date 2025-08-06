@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-lora: 'Lora', 'serif';
+  --font-playfair: 'Playfair Display', 'serif';
+  --font-corinthia: 'Corinthia'
+}
+
+:root {
+    --primary-color: #F7F2EC;
+    --secondary-color: #01205F;
+    --accent-color: rgb(255, 255, 255);
+    --text-color: black;
+  }
